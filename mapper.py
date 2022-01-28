@@ -20,3 +20,4 @@ for line in sys.stdin:
     
     # tab-delimited; composite-key and count 1 for every visit output
     print('%s\t%s\t%s\t%s' % (ip,date,time, 1))
+    
