@@ -50,8 +50,3 @@ else:
     print('%s\t%s' % (current_ip, current_count))
 
 
-        
-
-
-        
-
